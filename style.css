@@ -1,0 +1,19 @@
+header a{font-family: 'Architects Daughter', cursive;}
+header{background-color:#66858D;}
+
+header li{ 
+    display:inline-block;
+    margin-left:15px;
+    margin-right:15px;
+ display:inline-block;
+width:29%;
+text-align:center;}
+
+header{
+    padding-top:20px;
+    padding-bottom:25px;}
+
+ a{ color:white;
+text-decoration:none;}
+
+header a:hover{color:#002B3B;}
